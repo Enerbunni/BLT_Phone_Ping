@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PingProject</string>
+    <string name="start_message">Start</string>
+    <string name="stop_message">Stop</string>
+    <string name="enter_interval">Enter interval between updates in seconds</string>
+    <string name="enter_Phone_Number">Enter target phone number</string>
+    <string name="debug_Log">Debug Log</string>
+</resources>
